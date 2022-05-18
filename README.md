@@ -12,5 +12,3 @@ Crypto:
 ![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=acheong08.visitor-badge)
-
-[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=acheong08)](https://github.com/anuraghazra/github-readme-stats)
