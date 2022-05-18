@@ -12,3 +12,8 @@ Crypto:
 ![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=acheong08.visitor-badge)
+
+## About me
+First year IBDP student...
+
+Check me out on [Linkedin](https://linkedin.com/in/acheong08)
