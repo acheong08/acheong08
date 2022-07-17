@@ -1,11 +1,3 @@
-Languages:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Nim Badge](https://img.shields.io/badge/Nim-FFE953?logo=nim&logoColor=000&style=flat)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![Java Badge](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=flat)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
 Operating systems:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -16,7 +8,8 @@ Crypto:
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=acheong08.visitor-badge)
 
-[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=acheong08)](https://github.com/anuraghazra/github-readme-stats)
+![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=acheong08)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acheong08)
 
 ## About me
 First year IBDP student...
