@@ -12,6 +12,8 @@ Crypto:
 
 ![Antonio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=acheong08&theme=dark)
 
+[![wakatime](https://wakatime.com/badge/user/7ddb653c-a619-47dc-9be4-7ccc1f01ba4a.svg)](https://wakatime.com/@7ddb653c-a619-47dc-9be4-7ccc1f01ba4a)
+
 ## About me
 First year IBDP student...
 
