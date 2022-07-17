@@ -8,9 +8,9 @@ Crypto:
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=acheong08.visitor-badge)
 
-![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=acheong08)
+![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=acheong08&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acheong08)
+![Antonio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=acheong08&theme=dark)
 
 ## About me
 First year IBDP student...
