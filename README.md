@@ -11,7 +11,7 @@ Time spent programming since July 20th, 2022:
 [![wakatime](https://wakatime.com/badge/user/7ddb653c-a619-47dc-9be4-7ccc1f01ba4a.svg)](https://wakatime.com/@7ddb653c-a619-47dc-9be4-7ccc1f01ba4a)
 
 ## About me
-First year IBDP student...
+Second year IBDP student...
 
 Check me out on [Linkedin](https://linkedin.com/in/acheong08)
 
