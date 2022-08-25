@@ -3,7 +3,7 @@
 <br>
 <hr>
 <br>
-Time spent programming for the past two weeks:
+Time spent programming for the past week:
 <br>
 
 ![Antonio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=acheong08&theme=dark)
