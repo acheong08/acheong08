@@ -13,9 +13,6 @@ Time spent programming for the past month:
 ## About me
 Second year IBDP student...
 
-Check me out on [Linkedin](https://linkedin.com/in/acheong08)
-
-
 
 
 
