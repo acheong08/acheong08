@@ -1,10 +1,5 @@
 ![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=acheong08&theme=dark)
 
-<br>
-<hr>
-<br>
-Time spent programming for the past month:
-<br>
 
 ![Antonio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=acheong08&theme=dark)
 
@@ -13,7 +8,6 @@ Time spent programming for the past month:
 ## About me
 Second year IBDP student...
 
-
-
+<br>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=acheong08.visitor-badge)
