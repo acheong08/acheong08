@@ -11,3 +11,5 @@ Second year IBDP student...
 <br>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=acheong08.visitor-badge)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=acheong08)](#)
