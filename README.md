@@ -1,3 +1,17 @@
 ![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=acheong08&theme=dark&count_private=true)
 
-TODO
+Tech stack:
+- Python:
+  - Flask framework
+  - Web crawling
+  - Data analytics
+- Go:
+  - Wails framework
+  - CLI tools
+  - GUI apps
+- HTML/CSS/JS:
+  - Svelte
+- Databases:
+  - SQLite
+  - Firebase
+
