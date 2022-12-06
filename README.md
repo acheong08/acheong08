@@ -15,4 +15,4 @@ Tech stack:
   - SQLite
   - Firebase
 
-<a rel="me" href="https://techhub.social/@god">Mastodon</a>
+<a rel="me" href="https://fosstodon.org/@acheong08">Mastodon</a>
