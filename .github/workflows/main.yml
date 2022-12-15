@@ -1,0 +1,39 @@
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+name: Metrics
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 0 */5 * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: acheong08
+          template: classic
+          base: activity, repositories, metadata
+          config_timezone: Asia/Taipei
+          plugin_achievements: yes
+          plugin_achievements_threshold: A
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: detailed
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_skipped: acheong08
+          plugin_activity_visibility: all
+          plugin_gists: yes
+          plugin_lines: yes
+          plugin_lines_skipped: acheong08
+          plugin_notable: yes
+          plugin_notable_repositories: yes
+          repositories: 1000
