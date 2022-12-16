@@ -38,3 +38,10 @@ jobs:
           plugin_notable_from: organization
           plugin_notable_types: commit
           plugin_traffic: yes
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 60
+          plugin_habits_facts: yes
+          plugin_habits_from: 1000
+          plugin_habits_languages_limit: 20
+          plugin_habits_languages_threshold: 0%
