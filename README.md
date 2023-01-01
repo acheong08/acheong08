@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/godlyignorance" target="blank"><img align="center" src="https://raw.githubusercontent.com/acheong08/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="godlyignorance" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/acheong08" target="blank"><img align="center" src="https://raw.githubusercontent.com/acheong08/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="acheong08" height="30" width="40" /></a>
+<a href="https://twitter.com/godlyignorance" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36258159/210165611-1537dc49-306e-456e-b627-306fec07117e.png" alt="godlyignorance" width="60" /></a>
+<a href="https://linkedin.com/in/acheong08" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36258159/210165581-1b36737f-bf9e-43f5-a897-d6208c3e51a8.png" alt="acheong08" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
