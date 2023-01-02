@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **acheong@student.dalat.org**
 
-- ⚡ Fun fact **Most of my commits are at 1AM**
+- ⚡ Fun fact **Most of my projects were created at 1AM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
