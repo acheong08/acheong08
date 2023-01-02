@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Antonio</h1>
 <h3 align="center">A passionate 75% stack developer</h3>
 
-- 🔭 I’m currently working on [ChatGPT](https://github.com/acheong08/ChatGPT)
+- 🔭 I’m currently working on the [ChatGPT library](https://github.com/acheong08/ChatGPT)
 
 - 🌱 I’m currently learning **everything**
 
