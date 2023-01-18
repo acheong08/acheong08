@@ -3,13 +3,11 @@
 <h3 align="center">A tired 75% stack developer</h3>
 From Penang Malaysia but currently living in China. Looking to escape China
 
-- 🔭 I’m currently working on the [ChatGPT library](https://github.com/acheong08/ChatGPT)
+- 🔭 I’m currently working on Apple Security bounties
 
 - 🌱 I’m currently learning **everything**
 
-- 👯 I’m looking to collaborate on [ChatGPT server](https://github.com/ChatGPT-Hackers/ChatGPT-API-server)
-
-- 🤝 I’m looking for help with [ChatGPT agent](https://github.com/ChatGPT-Hackers/ChatGPT-API-agent)
+- 👯 I’m looking to collaborate on OPT fine tuning
 
 - 👨‍💻 All of my projects are available at [https://github.com/acheong08](https://github.com/acheong08)
 
