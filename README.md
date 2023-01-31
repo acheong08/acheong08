@@ -7,7 +7,7 @@ From Penang Malaysia but currently living in China. Looking to escape China
 
 - 🌱 I’m currently learning **everything**
 
-- 👯 I’m looking to collaborate on OPT fine tuning
+- 👯 I’m looking to collaborate on <pending ideas\>
 
 - 👨‍💻 All of my projects are available at [https://github.com/acheong08](https://github.com/acheong08)
 
