@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Antonio</h1>
 <h3 align="center">A tired 75% stack developer</h3>
-From Penang Malaysia but currently living in China. Looking to escape China
+From Penang Malaysia but currently living in China. Moving to UK in a few months
 
 - 🔭 I’m currently working on Apple Security bounties
 
