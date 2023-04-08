@@ -1,7 +1,6 @@
 # Antonio Cheong
 
-### Emails (For OpenAI to verify my waitlist application)
-- edwardputin5342@gmail.com
+[![support](https://ko-fi.com/img/githubbutton_sm.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ### Verify my identity:
 https://github.com/acheong08/crystallize
