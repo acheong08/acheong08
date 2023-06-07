@@ -16,7 +16,7 @@ https://github.com/acheong08/
 ### revChatGPT
 Reverse engineering of ChatGPT, includes conversation history tracking, title generation, conversation management, and plugins
 
-- More than 447k downloads and 26.1k GitHub stars (top 600 on GitHub)
+- More than 447k downloads and 26.1k GitHub stars (top 600 on GitHub out of over 100 million)
 - Working with a REST API
 
 ### EdgeGPT
