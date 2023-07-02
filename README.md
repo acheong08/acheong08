@@ -3,4 +3,4 @@
 
 Open an issue in the appropriate repository or [here](https://github.com/acheong08/acheong08/issues/new) for any complaints about me as a human. 
 
-> ## PLEASE OPEN A PR AND FIX MY STUPID CODE
+> #### Feel free to open a PR anywhere
